@@ -57,6 +57,7 @@
     "@lerna-test/silence-logging": "link:helpers/silence-logging",
     "@lerna-test/update-lerna-config": "link:helpers/update-lerna-config",
     "camelcase": "^5.3.1",
+    "chalk": "^2.4.2",
     "debug": "^4.1.1",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
